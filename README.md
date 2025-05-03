@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/davidlin2k-pox-mcp-server-badge.png)](https://mseep.ai/app/davidlin2k-pox-mcp-server)
+
 # POX MCP Server
 
 ## Overview
